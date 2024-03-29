@@ -1,3 +1,6 @@
+Beginner tutorial project based on this ![tutorial](https://www.youtube.com/watch?v=f7BJFTEbc10)
+---
+
 # Tutorial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
