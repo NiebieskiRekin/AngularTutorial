@@ -1,4 +1,4 @@
-Beginner tutorial project based on this ![tutorial](https://www.youtube.com/watch?v=f7BJFTEbc10)
+Beginner tutorial project based on this [tutorial](https://www.youtube.com/watch?v=f7BJFTEbc10)
 ---
 
 # Tutorial
